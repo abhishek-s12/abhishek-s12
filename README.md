@@ -1,8 +1,21 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
+# Hey, I'm Abhishek 👋
 
-<h3 align="center">
-🚀 Full Stack Developer | AI Enthusiast | Open Source Contributor
-</h3>
+I'm a Computer Science student who loves building software.
+
+Currently exploring **AI Engineering, Backend Systems, DevOps and Open Source**.
+
+I enjoy turning ideas into real-world projects and learning how large scale systems are designed.
+
+---
+
+### Currently working on
+
+- 🤖 Building AI powered applications
+- ⚙️ Backend systems with Node.js & Python
+- 🐧 Improving my Linux and DevOps workflow
+- 📚 Learning System Design
+
+---
 
 
 ---
