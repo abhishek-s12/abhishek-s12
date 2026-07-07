@@ -14,7 +14,7 @@
 
 I'm a **Computer Science Engineering student** passionate about backend engineering, AI systems, and modern software architecture.
 
-I enjoy understanding how systems work under the hood—from operating systems and distributed systems to cloud infrastructure and developer tooling. I believe the best way to learn is by building, so most of my time is spent creating projects, experimenting with new technologies, and contributing to open source.
+I enjoy understanding how systems work under the hood from operating systems and distributed systems to cloud infrastructure and developer tooling. I believe the best way to learn is by building, so most of my time is spent creating projects, experimenting with new technologies, and contributing to open source.
 
 * 🤖 Building AI-powered developer tools
 * ⚙️ Backend development with Node.js, Python & Rust
