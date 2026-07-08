@@ -64,16 +64,7 @@ I enjoy understanding how systems work under the hood — from operating systems
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions)
  
 ---
- 
-## 📌 Featured Projects
- 
-> Replace these with your real repos — pinning 3-4 strong projects here (with a one-line description and tech stack) does more for your profile than any stat widget.
- 
-- **[Project Name](https://github.com/your-username/project-repo)** — One-line description of what it does and why it's interesting. `Tech: Rust, Tokio`
-- **[Project Name](https://github.com/your-username/project-repo)** — One-line description of what it does and why it's interesting. `Tech: Python, FastAPI, LangChain`
-- **[Project Name](https://github.com/your-username/project-repo)** — One-line description of what it does and why it's interesting. `Tech: Node.js, Docker`
----
- 
+  
 ## 📈 GitHub Statistics
  
 <div align="center">
