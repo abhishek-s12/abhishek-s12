@@ -174,16 +174,6 @@ A tool built to understand large codebases without hallucinating — written up 
 
 <br/>
 
-## 🎧 Now Playing
-
-<div align="center">
-<img src="https://novatorem-abhishek-s12.vercel.app/api/spotify" alt="Spotify Now Playing"/>
-</div>
-
-> 💡 This card needs a one-time personal deploy (auth is per-account) — see setup notes below.
-
-<br/>
-
 ## 🎯 Current Focus & 2026 Goals
 
 <table align="center">
