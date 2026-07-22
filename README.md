@@ -51,17 +51,7 @@ I pull systems apart to see how they actually work — schedulers, consensus, qu
 </td>
 <td width="40%" valign="top" align="center">
 
-**⚡ developer power level**
-
-![Level](https://img.shields.io/badge/LEVEL-42-a78bfa?style=for-the-badge&labelColor=0f172a)
-![XP](https://img.shields.io/badge/XP-8420%2F10000-38bdf8?style=for-the-badge&labelColor=0f172a)
-
-`████████████████░░░░` 84%
-
-<br/>
-
-![Coffee](https://img.shields.io/badge/Coffee_consumed-∞-EC4899?style=for-the-badge&labelColor=0f172a)
-![Bugs](https://img.shields.io/badge/Bugs_created-also_∞-a78bfa?style=for-the-badge&labelColor=0f172a)
+<img src="./assets/dev-id-card.svg" width="100%" alt="Abhishek Kumar developer ID card"/>
 
 </td>
 </tr>
