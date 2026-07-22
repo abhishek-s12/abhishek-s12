@@ -1,139 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Abhishek%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Tooling%20%7C%20Rust%20Learner&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,25:302b63,50:24243e,75:1e293b,100:0f172a&height=260&section=header&text=ABHISHEK%20KUMAR&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20·%20AI%20Tooling%20·%20Systems%20Programmer&descAlignY=52&descSize=18&descColor=38BDF8" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Shipping+AI-powered+developer+tools;Learning+Rust+for+systems+programming;Fedora+Linux+%2B+Open+Source+enthusiast" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=%3E+booting+dev-environment...;%3E+loading+backend_engineer.exe;%3E+status%3A+building+AI-native+tooling;%3E+status%3A+learning+rust+%2F+systems+programming;%3E+ready." alt="Typing SVG" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/abhishek-k-a16468351">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://x.com/abxdevops">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="mailto:abhishek.ss1003@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://dev.to/lintits">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/abhishek-k-a16468351"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a"/></a>
+<a href="https://x.com/abxdevops"><img src="https://img.shields.io/badge/X-EC4899?style=for-the-badge&logo=x&logoColor=white&labelColor=0f172a"/></a>
+<a href="mailto:abhishek.ss1003@gmail.com"><img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a"/></a>
+<a href="https://dev.to/lintits"><img src="https://img.shields.io/badge/dev.to-38BDF8?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0f172a"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=abhishek-s12&style=for-the-badge&color=38bdf8" alt="profile views"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=abhishek-s12&style=for-the-badge&color=a78bfa&labelColor=0f172a" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/abhishek-s12?style=for-the-badge&color=38bdf8&labelColor=0f172a&label=followers"/>
 
 </div>
 
 <br/>
 
-## 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
+
+<br/>
+
+## 🪐 About Me
+
+<table align="center">
+<tr>
+<td width="60%" valign="top">
 
 ```yaml
-name: Abhishek Kumar
-role: Backend Engineer & AI Tooling Builder
-education: Computer Science Engineering Student
-focus: Backend Systems · AI Applications · Distributed Systems
-philosophy: "The best way to understand a system is to build one."
+whoami:      Abhishek Kumar
+role:        Backend Engineer · AI Tooling Builder
+education:   Computer Science Engineering Student
+focus:       Distributed Systems · AI Infra · Rust
+os:          Fedora Linux (daily driver)
+philosophy:  "The best way to understand a system is to build one."
 ```
 
-I love pulling systems apart to see how they actually work — operating systems, distributed systems, cloud infra, developer tooling. Most of my time goes into building real projects, breaking things on purpose, and contributing back to open source.
+I pull systems apart to see how they actually work — schedulers, consensus, query planners, whatever's under the hood. Most of my time goes into building things that force me to learn the internals: an AI platform that indexes and reasons over real codebases, a packaging tool that has to be byte-for-byte deterministic, a verifier that trusts nothing it can't independently check.
 
-- 🤖 Building AI-powered developer tools
-- ⚙️ Backend development with Node.js, Python & Rust
-- 🦀 Learning Rust for systems programming
-- 🐧 Daily-driving Fedora Linux
-- ☁️ Exploring Cloud, Kubernetes & DevOps
-- 📚 Currently deep in System Design & Distributed Systems
-- 💬 Ask me about backend architecture, AI tooling, or Linux setups
-
-<br/>
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,rust&theme=dark" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" />
-
-**AI / ML**
-<br/>
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai"/>
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Qdrant-000000?style=for-the-badge"/>
-
-**DevOps & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,githubactions,aws&theme=dark" />
-
-</div>
-
-<br/>
-
-## 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 [CodePilot AI](https://github.com/abhishek-s12/codepilot-ai)
-
-Self-hosted, enterprise-grade codebase intelligence platform — think "Copilot for teams" that never sends your code off-network. Collaborative AI chat, AST + semantic indexing, interactive call graphs, RBAC, and Kubernetes/Helm deployment built in.
-
-`React 19` `FastAPI` `Qdrant` `PostgreSQL` `Kubernetes` `Ollama`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square)](https://codepilot-ai-wine.vercel.app/)
-[![Repo](https://img.shields.io/github/stars/abhishek-s12/codepilot-ai?style=flat-square&label=Star)](https://github.com/abhishek-s12/codepilot-ai)
+- 🤖 &nbsp;Building AI-powered developer tools
+- 🦀 &nbsp;Learning Rust for systems programming
+- ⚙️ &nbsp;Backend with Node.js, Python, Rust
+- ☁️ &nbsp;Exploring Kubernetes, AWS, cloud-native infra
+- 📚 &nbsp;Deep in system design & distributed systems
+- 💬 &nbsp;Ask me about backend architecture or Linux setups
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top" align="center">
 
-### 📦 [PackWiser](https://github.com/abhishek-s12/packwiser)
+**⚡ developer power level**
 
-Industrial-grade Rust packaging toolchain — secrets scanning, deterministic archiving, SBOM generation (CycloneDX/SPDX), Ed25519 package signing, and quality/policy gates, all in one CLI + library.
+![Level](https://img.shields.io/badge/LEVEL-42-a78bfa?style=for-the-badge&labelColor=0f172a)
+![XP](https://img.shields.io/badge/XP-8420%2F10000-38bdf8?style=for-the-badge&labelColor=0f172a)
 
-`Rust 2024` `Clean Architecture` `Cargo Workspace` `Ed25519` `SBOM`
+`████████████████░░░░` 84%
 
-[![CI](https://img.shields.io/github/actions/workflow/status/abhishek-s12/packwiser/ci.yml?style=flat-square&label=CI)](https://github.com/abhishek-s12/packwiser/actions)
-[![Repo](https://img.shields.io/github/stars/abhishek-s12/packwiser?style=flat-square&label=Star)](https://github.com/abhishek-s12/packwiser)
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✅ [Trustgate](https://github.com/abhishek-s12/trustgate)
-
-A deliberately dumb, agent-blind verifier for AI coding agents — catches "tests pass" hallucinations by checking real exit codes, real git diffs, and real HTTP boot checks instead of trusting the agent's self-report.
-
-`TypeScript` `CLI` `Git Hooks` `GitHub Actions`
-
-[![Repo](https://img.shields.io/github/stars/abhishek-s12/trustgate?style=flat-square&label=Star)](https://github.com/abhishek-s12/trustgate)
-
-</td>
-<td width="50%" valign="top">
-
-### ✍️ [Chunkwiser](https://dev.to/lintits/i-built-chunkwiser-a-tool-that-understands-large-codebases-without-hallucinating-ncp)
-
-A tool built to understand large codebases without hallucinating — written up as a dev.to deep-dive on the chunking/retrieval approach used to make AI code understanding reliable at scale.
-
-`AI Tooling` `RAG` `Code Understanding`
-
-[![Read Article](https://img.shields.io/badge/Read_on-dev.to-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/lintits/i-built-chunkwiser-a-tool-that-understands-large-codebases-without-hallucinating-ncp)
+![Coffee](https://img.shields.io/badge/Coffee_consumed-∞-EC4899?style=for-the-badge&labelColor=0f172a)
+![Bugs](https://img.shields.io/badge/Bugs_created-also_∞-a78bfa?style=for-the-badge&labelColor=0f172a)
 
 </td>
 </tr>
@@ -141,26 +69,140 @@ A tool built to understand large codebases without hallucinating — written up 
 
 <br/>
 
-## 📊 GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
+
+<br/>
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhishek-s12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&cache_seconds=1800" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-s12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+**🟢 Production experience**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,postgres,mongodb,redis,docker&theme=dark&perline=8" />
 
-<img src="https://streak-stats.demolab.com?user=abhishek-s12&theme=tokyonight&hide_border=true" />
+**🟡 Currently deepening**
+<br/>
+<img src="https://skillicons.dev/icons?i=rust,kubernetes,aws,linux&theme=dark&perline=8" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-s12&theme=tokyo-night&hide_border=true" width="98%"/>
+**🔵 AI / ML tooling**
+<br/>
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Qdrant-000000?style=for-the-badge&logoColor=38BDF8"/>
 
 </div>
 
 <br/>
 
-## 🏆 GitHub Trophies
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
+
+<br/>
+
+## 🌌 Featured Builds
+
+<table>
+<tr><td>
+
+### 🏢 [CodePilot AI](https://github.com/abhishek-s12/codepilot-ai)
+Self-hosted, enterprise-grade codebase intelligence — Copilot for teams that never leaves your network. AI chat, AST + semantic indexing, interactive call graphs, RBAC, full K8s/Helm deploy.
+
+`React 19` `FastAPI` `Qdrant` `PostgreSQL` `Kubernetes` `Ollama`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge&logoColor=white&labelColor=0f172a)](https://codepilot-ai-wine.vercel.app/) [![Stars](https://img.shields.io/github/stars/abhishek-s12/codepilot-ai?style=for-the-badge&label=star&color=a78bfa&labelColor=0f172a)](https://github.com/abhishek-s12/codepilot-ai)
+
+</td></tr>
+<tr><td>
+
+### 📦 [PackWiser](https://github.com/abhishek-s12/packwiser)
+Industrial-grade Rust packaging toolchain — secrets scanning, deterministic archiving, SBOM generation (CycloneDX/SPDX), Ed25519 signing, policy gates.
+
+`Rust 2024` `Clean Architecture` `Cargo Workspace` `Ed25519` `SBOM`
+
+[![CI](https://img.shields.io/github/actions/workflow/status/abhishek-s12/packwiser/ci.yml?style=for-the-badge&label=CI&color=a78bfa&labelColor=0f172a)](https://github.com/abhishek-s12/packwiser/actions) [![Stars](https://img.shields.io/github/stars/abhishek-s12/packwiser?style=for-the-badge&label=star&color=38bdf8&labelColor=0f172a)](https://github.com/abhishek-s12/packwiser)
+
+</td></tr>
+<tr><td>
+
+### ✅ [Trustgate](https://github.com/abhishek-s12/trustgate)
+A deliberately dumb, agent-blind verifier for AI coding agents — checks real exit codes, real git diffs, real HTTP boot checks instead of trusting the agent's self-report.
+
+`TypeScript` `CLI` `Git Hooks` `GitHub Actions`
+
+[![Stars](https://img.shields.io/github/stars/abhishek-s12/trustgate?style=for-the-badge&label=star&color=ec4899&labelColor=0f172a)](https://github.com/abhishek-s12/trustgate)
+
+</td></tr>
+<tr><td>
+
+### ✍️ [Chunkwiser](https://dev.to/lintits/i-built-chunkwiser-a-tool-that-understands-large-codebases-without-hallucinating-ncp)
+Chunking + retrieval layer built to keep AI code-understanding grounded in what's actually in the codebase — not hallucinated.
+
+`AI Tooling` `RAG` `Code Understanding`
+
+[![Read on dev.to](https://img.shields.io/badge/Read_on-dev.to-38BDF8?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0f172a)](https://dev.to/lintits/i-built-chunkwiser-a-tool-that-understands-large-codebases-without-hallucinating-ncp)
+
+</td></tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
+
+<br/>
+
+## 🐍 Live Contribution Snake
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhishek-s12&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+
+<!-- Genuinely animated GIF — a snake visibly eats your real contribution graph. Regenerated nightly by the workflow below. -->
+<img src="https://raw.githubusercontent.com/abhishek-s12/abhishek-s12/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
+
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhishek-s12&show_icons=true&hide_border=true&rank_icon=github&count_private=true&cache_seconds=1800&bg_color=0f172a&title_color=A78BFA&icon_color=38BDF8&text_color=cbd5e1&border_radius=12" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-s12&layout=compact&hide_border=true&langs_count=8&bg_color=0f172a&title_color=A78BFA&text_color=cbd5e1&border_radius=12" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=abhishek-s12&hide_border=true&background=0f172a&ring=A78BFA&fire=EC4899&currStreakLabel=38BDF8&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=cbd5e1&dates=64748b&border_radius=12" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-s12&bg_color=0f172a&color=38BDF8&line=A78BFA&point=EC4899&area=true&hide_border=true&border_radius=12" width="98%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhishek-s12&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
+
+<br/>
+
+## 🎯 Now Running
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=760&height=150&lines=%24+cat+now.txt;shipping%3A+a+production-ready+AI+application;learning%3A+rust+backend+%2B+distributed+systems;reading%3A+system+design+%2F+cloud-native+architecture;goal%3A+build+a+dev+tool+people+actually+depend+on;%24+_" alt="now running"/>
+
+</div>
+
+**🌱 Currently learning:** Rust · Distributed Systems · Kubernetes · AWS · AI Infrastructure
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
 
 <br/>
 
@@ -170,72 +212,30 @@ A tool built to understand large codebases without hallucinating — written up 
 - [I built Chunkwiser: a tool that understands large codebases without hallucinating](https://dev.to/lintits/i-built-chunkwiser-a-tool-that-understands-large-codebases-without-hallucinating-ncp)
 <!-- BLOG-POST-LIST:END -->
 
-> 💡 The list above updates itself automatically once you add the workflow in the setup notes below (pulls your latest dev.to posts on a schedule).
+> Auto-refreshes from dev.to once the workflow below is added.
 
 <br/>
 
-## 🎯 Current Focus & 2026 Goals
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-**Current Focus**
-- ✅ AI Engineering
-- ✅ Backend Development
-- ✅ Rust Programming
-- ✅ System Design
-- ✅ DevOps
-- ✅ Open Source
-
-</td>
-<td valign="top" width="50%">
-
-**2026 Goals**
-- [ ] Ship a production-ready AI application
-- [ ] Get proficient in Rust backend development
-- [ ] Contribute to impactful open-source projects
-- [ ] Master distributed systems & cloud architecture
-- [ ] Build a dev tool used by thousands
-
-</td>
-</tr>
-</table>
-
-**🌱 Currently Learning:** Rust · Distributed Systems · Kubernetes · AWS · AI Infrastructure · Cloud-Native Development
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
 
 <br/>
+
+<div align="center">
 
 ## 🤝 Let's Connect
 
-<div align="center">
+<a href="https://github.com/abhishek-s12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abhishek-k-a16468351"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/abxdevops"><img src="https://img.shields.io/badge/X-EC4899?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:abhishek.ss1003@gmail.com"><img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://dev.to/lintits"><img src="https://img.shields.io/badge/dev.to-38BDF8?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 
-<a href="https://github.com/abhishek-s12">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/abhishek-k-a16468351">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://x.com/abxdevops">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="mailto:abhishek.ss1003@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://dev.to/lintits">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-</a>
+<br/><br/>
 
-</div>
+<i>"The best way to understand a system is to build one."</i>
 
-<br/>
+<br/><br/>
 
-<div align="center">
-
-### 💡 *"The best way to understand a system is to build one."*
-
-⭐ **Thanks for stopping by — feel free to explore my repos!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e293b,50:24243e,75:302b63,100:0f0c29&height=140&section=footer" width="100%"/>
 
 </div>
