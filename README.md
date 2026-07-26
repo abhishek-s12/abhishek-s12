@@ -51,7 +51,7 @@ I pull systems apart to see how they actually work — schedulers, consensus, qu
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="./assets/dev-id-card.svg" width="100%" alt="Abhishek Kumar developer ID card"/>
+
 
 </td>
 </tr>
