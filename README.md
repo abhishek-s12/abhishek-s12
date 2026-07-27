@@ -207,7 +207,8 @@ Chunking + retrieval layer built to keep AI code-understanding grounded in what'
 ## ✍️ Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [I built Chunkwiser: a tool that understands large codebases without hallucinating](https://dev.to/lintits/i-built-chunkwiser-a-tool-that-understands-large-codebases-without-hallucinating-ncp)
+- [Why AI Coding Tools Still Waste Tokens &lpar;And How Context Engineering Can Fix It&rpar;](https://dev.to/lintits/why-ai-coding-tools-still-waste-tokens-and-how-context-engineering-can-fix-it-fbl)
+- [I Built ChunkWiser: A Tool That Understands Large Codebases Without Hallucinating](https://dev.to/lintits/i-built-chunkwiser-a-tool-that-understands-large-codebases-without-hallucinating-ncp)
 <!-- BLOG-POST-LIST:END -->
 
 <sub>Auto-refreshes from dev.to via the <a href="https://github.com/marketplace/actions/blog-post-workflow">gautamkrishnar/blog-post-workflow</a> GitHub Action — see setup below.</sub>
