@@ -180,8 +180,6 @@ Chunking + retrieval layer built to keep AI code-understanding grounded in what'
 
 </div>
 
-> **Why these particular URLs:** the original public `github-readme-stats.vercel.app` and `streak-stats.demolab.com` endpoints are shared by thousands of profiles and frequently return `503`/blank images when they hit GitHub's API rate limit. This version points the stats + top-languages cards at **`github-stats-extended.vercel.app`** — an actively maintained, fully compatible fork with its own quota — and the streak card at the community-run **`github-readme-streak-stats-eight.vercel.app`** mirror, both of which are currently up. If a card ever breaks again, the most durable fix is self-hosting your own instance — see the collapsible section at the bottom for exact steps.
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
