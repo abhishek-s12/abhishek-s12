@@ -1,27 +1,35 @@
 <!-- ======================================================================
-     SETUP — read this once, then delete this comment block.
+     SETUP — read once, then delete this comment block.
 
-     The scanner line, glitch text, and loading bar below are custom SVG
-     files, not hotlinked services — GitHub can't animate them unless
-     they live inside YOUR repo. To make them actually work:
+     WHY THINGS WERE BREAKING
+     The capsule-render header/footer and some stat cards are all served
+     live by free, shared, community-run instances (capsule-render.vercel.app,
+     github-readme-stats.vercel.app, streak-stats.demolab.com). Their own
+     repos say outright: "for reliable use, fork and deploy your own
+     instance" — the shared ones get rate-limited or go down under load,
+     which is why they sometimes render as broken images with no warning.
 
-       1. Create a repo named exactly your username (abhishek-s12/abhishek-s12)
-          — that's the special repo GitHub uses as your profile README.
-       2. Add an `assets/` folder to that repo.
-       3. Drop these 4 files into it: scan-line.svg, glitch-online.svg,
-          glitch-secure.svg, loading-bar.svg  (provided alongside this file)
-       4. Commit README.md at the repo root. Done — the animations run
-          natively in-browser, no external API calls, no rate limits.
+     THE FIX USED BELOW
+       - Header, footer, and both scan lines are now custom SVGs that
+         live in YOUR repo (assets/ folder) — no third-party server
+         involved, so they can't go down.
+       - Stats/streak/trophy are kept (they're the standard, and usually
+         fine) but see the "bulletproof stats" note near that section for
+         a one-time setup that makes them commit-once, never-break.
 
-     Everything else (typing text, stats, streak, trophies, snake) is a
-     live remote widget and needs no setup beyond replacing usernames.
+     TO MAKE THE LOCAL SVGs WORK:
+       1. Repo must be named exactly your username (abhishek-s12/abhishek-s12).
+       2. Add an `assets/` folder with: hero-banner.svg, footer-banner.svg,
+          scan-vertical.svg, glitch-online.svg, glitch-secure.svg,
+          loading-bar.svg (all provided alongside this file).
+       3. Commit README.md at the repo root.
      ====================================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0d0221,25:ff00c8,55:00fff5,100:0d0221&text=ABHISHEK%20KUMAR&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%3C%20AI%20ENGINEER%20//%20SYSTEM%20BUILDER%20%3E&descAlignY=62&descSize=16&descColor=00fff5"/>
+<img width="100%" src="./assets/hero-banner.svg"/>
 
-<img width="100%" src="./assets/scan-line.svg"/>
+<img width="100%" src="./assets/scan-vertical.svg"/>
 
 <img src="./assets/glitch-online.svg" width="480"/>
 
@@ -144,6 +152,8 @@ Context engineering for large codebases — smarter chunking so LLMs stop halluc
 
 <img src="https://github-profile-trophy.vercel.app/?username=abhishek-s12&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
 
+<sub>⚠️ these four are live third-party renders — usually fine, occasionally rate-limited. See "bulletproof stats" below to make them unbreakable.</sub>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&height=2&color=0:ff00c8,100:00fff5"/>
@@ -163,7 +173,7 @@ Context engineering for large codebases — smarter chunking so LLMs stop halluc
 
 <img src="./assets/glitch-secure.svg" width="480"/>
 
-<img src="./assets/scan-line.svg" width="100%"/>
+<img width="100%" src="./assets/scan-vertical.svg"/>
 
 <a href="https://github.com/abhishek-s12"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/abhishek-k-a16468351"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/></a>&nbsp;
@@ -173,4 +183,33 @@ Context engineering for large codebases — smarter chunking so LLMs stop halluc
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=130&section=footer&color=0:0d0221,50:ff00c8,100:00fff5"/>
+<div align="center">
+<img width="100%" src="./assets/footer-banner.svg"/>
+</div>
+
+<!-- ======================================================================
+     BULLETPROOF STATS (optional, ~5 min, makes the STATS section
+     immune to third-party downtime forever)
+
+     Add .github/workflows/metrics.yml to your repo with:
+
+     name: metrics
+     on:
+       schedule: [{ cron: '0 0 * * *' }]
+       workflow_dispatch:
+     jobs:
+       metrics:
+         runs-on: ubuntu-latest
+         steps:
+           - uses: lowlighter/metrics@latest
+             with:
+               token: ${{ secrets.GITHUB_TOKEN }}
+               base: header, activity, community, repositories, languages
+               config_timezone: Asia/Kolkata
+
+     This generates github-metrics.svg committed straight into your repo
+     via GitHub Actions on a schedule — no live API call at view-time, so
+     it literally cannot rate-limit or go down. Then swap the STATS
+     section's <img> tags for:
+       <img src="./github-metrics.svg"/>
+     ====================================================================== -->
