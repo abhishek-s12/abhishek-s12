@@ -1,0 +1,27 @@
+<svg width="100%" height="46" viewBox="0 0 900 46" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      text { font-family: 'Courier New', monospace; font-size: 22px; font-weight: 700; letter-spacing: 6px; }
+      .base   { fill: #e6e6e6; }
+      .cyan   { fill: #00fff5; opacity: 0.85; animation: glitchCyan 3.2s infinite steps(1); }
+      .pink   { fill: #ff00c8; opacity: 0.85; animation: glitchPink 3.2s infinite steps(1); }
+      @keyframes glitchCyan {
+        0%, 92%, 100% { transform: translate(0px, 0px); opacity: 0; }
+        93%           { transform: translate(-3px, 0px); opacity: 0.8; }
+        95%           { transform: translate(2px, -1px); opacity: 0.8; }
+        97%           { transform: translate(-2px, 1px); opacity: 0.6; }
+      }
+      @keyframes glitchPink {
+        0%, 90%, 100% { transform: translate(0px, 0px); opacity: 0; }
+        91%           { transform: translate(3px, 0px); opacity: 0.8; }
+        94%           { transform: translate(-2px, 1px); opacity: 0.8; }
+        96%           { transform: translate(2px, -1px); opacity: 0.6; }
+      }
+      .cursor { fill: #00fff5; animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    </style>
+  </defs>
+  <text x="50%" y="30" text-anchor="middle" class="pink">&gt; SYSTEM ONLINE</text>
+  <text x="50%" y="30" text-anchor="middle" class="cyan">&gt; SYSTEM ONLINE</text>
+  <text x="50%" y="30" text-anchor="middle" class="base">&gt; SYSTEM ONLINE<tspan class="cursor">_</tspan></text>
+</svg>
