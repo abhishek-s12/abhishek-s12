@@ -1,8 +1,31 @@
+<!-- ======================================================================
+     SETUP — read this once, then delete this comment block.
+
+     The scanner line, glitch text, and loading bar below are custom SVG
+     files, not hotlinked services — GitHub can't animate them unless
+     they live inside YOUR repo. To make them actually work:
+
+       1. Create a repo named exactly your username (abhishek-s12/abhishek-s12)
+          — that's the special repo GitHub uses as your profile README.
+       2. Add an `assets/` folder to that repo.
+       3. Drop these 4 files into it: scan-line.svg, glitch-online.svg,
+          glitch-secure.svg, loading-bar.svg  (provided alongside this file)
+       4. Commit README.md at the repo root. Done — the animations run
+          natively in-browser, no external API calls, no rate limits.
+
+     Everything else (typing text, stats, streak, trophies, snake) is a
+     live remote widget and needs no setup beyond replacing usernames.
+     ====================================================================== -->
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0d0221,25:ff00c8,55:00fff5,100:0d0221&text=ABHISHEK%20KUMAR&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%3C%20AI%20ENGINEER%20//%20SYSTEM%20BUILDER%20%3E&descAlignY=62&descSize=16&descColor=00fff5"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2200&pause=800&color=FF00C8&center=true&vCenter=true&width=800&lines=BUILDING+AI-NATIVE+SYSTEMS;BREAKING+THINGS+TO+UNDERSTAND+THEM;RUST+%2B+DISTRIBUTED+SYSTEMS;SHIPPING+IN+THE+DARK"/>
+<img width="100%" src="./assets/scan-line.svg"/>
+
+<img src="./assets/glitch-online.svg" width="480"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2200&pause=800&color=FF00C8&center=true&vCenter=true&width=800&lines=BUILDING+AI-NATIVE+SYSTEMS;BREAKING+THINGS+TO+UNDERSTAND+THEM;RUST+%2B+DISTRIBUTED+SYSTEMS;SHIPPING+IN+THE+DARK"/>
 
 <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/PORTFOLIO-0d0221?style=for-the-badge&logo=vercel&logoColor=00fff5"/></a>
 <a href="https://www.linkedin.com/in/abhishek-k-a16468351"><img src="https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=ff00c8"/></a>
@@ -10,6 +33,7 @@
 <a href="https://dev.to/lintits"><img src="https://img.shields.io/badge/BLOG-0d0221?style=for-the-badge&logo=devdotto&logoColor=ff00c8"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=abhishek-s12&style=for-the-badge&color=ff00c8&label=VISITORS"/>
+<img src="https://img.shields.io/github/followers/abhishek-s12?style=for-the-badge&color=00fff5&label=FOLLOWERS&labelColor=0d0221"/>
 
 </div>
 
@@ -38,6 +62,10 @@ Currently deep in Rust, distributed systems, and RAG infra — shipping somethin
 <img src="https://img.shields.io/badge/LangChain-0d0221?style=flat-square&logoColor=00fff5"/>
 <img src="https://img.shields.io/badge/Qdrant-0d0221?style=flat-square&logoColor=ff00c8"/>
 <img src="https://img.shields.io/badge/HuggingFace-0d0221?style=flat-square&logoColor=ff00c8"/>
+
+<br/><br/>
+
+<img src="./assets/loading-bar.svg"/>
 
 </div>
 
@@ -133,9 +161,12 @@ Context engineering for large codebases — smarter chunking so LLMs stop halluc
 
 <div align="center">
 
+<img src="./assets/glitch-secure.svg" width="480"/>
+
+<img src="./assets/scan-line.svg" width="100%"/>
+
 <a href="https://github.com/abhishek-s12"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/abhishek-k-a16468351"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/></a>&nbsp;
-<a href="https://x.com/abxdevops"><img src="https://cdn.simpleicons.org/x/00fff5"/></a>&nbsp;
 <a href="mailto:abhishek.ss1003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"/></a>
 
 <sub>⚡ if you're building AI infra or Rust tooling, let's talk ⚡</sub>
