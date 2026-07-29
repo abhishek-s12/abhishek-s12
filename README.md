@@ -1,30 +1,3 @@
-<!-- ======================================================================
-     SETUP — read once, then delete this comment block.
-
-     WHY THINGS WERE BREAKING
-     The capsule-render header/footer and some stat cards are all served
-     live by free, shared, community-run instances (capsule-render.vercel.app,
-     github-readme-stats.vercel.app, streak-stats.demolab.com). Their own
-     repos say outright: "for reliable use, fork and deploy your own
-     instance" — the shared ones get rate-limited or go down under load,
-     which is why they sometimes render as broken images with no warning.
-
-     THE FIX USED BELOW
-       - Header, footer, and both scan lines are now custom SVGs that
-         live in YOUR repo (assets/ folder) — no third-party server
-         involved, so they can't go down.
-       - Stats/streak/trophy are kept (they're the standard, and usually
-         fine) but see the "bulletproof stats" note near that section for
-         a one-time setup that makes them commit-once, never-break.
-
-     TO MAKE THE LOCAL SVGs WORK:
-       1. Repo must be named exactly your username (abhishek-s12/abhishek-s12).
-       2. Add an `assets/` folder with: hero-banner.svg, footer-banner.svg,
-          scan-vertical.svg, glitch-online.svg, glitch-secure.svg,
-          loading-bar.svg (all provided alongside this file).
-       3. Commit README.md at the repo root.
-     ====================================================================== -->
-
 <div align="center">
 
 <img width="100%" src="./assets/hero-banner.svg"/>
@@ -187,25 +160,6 @@ Context engineering for large codebases — smarter chunking so LLMs stop halluc
 <img width="100%" src="./assets/footer-banner.svg"/>
 </div>
 
-<!-- ======================================================================
-     BULLETPROOF STATS (optional, ~5 min, makes the STATS section
-     immune to third-party downtime forever)
-
-     Add .github/workflows/metrics.yml to your repo with:
-
-     name: metrics
-     on:
-       schedule: [{ cron: '0 0 * * *' }]
-       workflow_dispatch:
-     jobs:
-       metrics:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: lowlighter/metrics@latest
-             with:
-               token: ${{ secrets.GITHUB_TOKEN }}
-               base: header, activity, community, repositories, languages
-               config_timezone: Asia/Kolkata
 
      This generates github-metrics.svg committed straight into your repo
      via GitHub Actions on a schedule — no live API call at view-time, so
