@@ -161,9 +161,4 @@ Context engineering for large codebases — smarter chunking so LLMs stop halluc
 </div>
 
 
-     This generates github-metrics.svg committed straight into your repo
-     via GitHub Actions on a schedule — no live API call at view-time, so
-     it literally cannot rate-limit or go down. Then swap the STATS
-     section's <img> tags for:
-       <img src="./github-metrics.svg"/>
-     ====================================================================== -->
+    
